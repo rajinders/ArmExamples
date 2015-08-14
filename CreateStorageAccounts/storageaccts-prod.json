@@ -1,0 +1,10 @@
+{
+    "storageAccountList": {
+        "value": [
+            { "name": "rajappprod", "location": "Central US", "storageAccountType": "Standard_LRS" },
+            { "name": "rajdbprod", "location": "Central US", "storageAccountType": "Standard_GRS" },
+            { "name": "rajwebprod", "location": "Central US", "storageAccountType": "Standard_ZRS" },
+            { "name": "rajarchprod", "location": "West US", "storageAccountType": "Premium_LRS" }
+            ]
+    }
+}
